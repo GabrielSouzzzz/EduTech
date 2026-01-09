@@ -1,29 +1,32 @@
-# EduTech
+# Sistema de Cadastro de Usuários em Python
 
-Sistema de gerenciamento de usuários desenvolvido em **Python**, utilizando **SQLite** como banco de dados local.  
-
-O projeto implementa funcionalidades completas de **CRUD** (Create, Read, Update, Delete), permitindo:
-
-- ✅ Cadastrar novos usuários
-- 📋 Listar registros existentes
-- ✏️ Atualizar informações
-- 🗑️ Excluir usuários
-
-Desenvolvido para aprendizado de manipulação de banco de dados e boas práticas em Python.
+Um simples sistema de **CRUD (Create, Read, Update, Delete)** para gerenciar usuários utilizando **Python** e **SQLite**.
 
 ---
 
-## 🛠 Tecnologias
+## 📝 Funcionalidades
+
+O sistema permite:
+
+-  Cadastrar novos usuários
+-  Listar todos os usuários cadastrados
+-  Atualizar informações de um usuário
+-  Excluir usuários
+-  Criar automaticamente a tabela `usuarios` no banco de dados
+
+---
+
+## 💻 Tecnologias Utilizadas
 
 - Python 3
-- SQLite (via módulo `sqlite3`)
+- SQLite (via módulo `sqlite3` do Python)
 
 ---
 
-## 💻 Como usar
+## ⚙️ Como Usar
 
-Clone o projeto:
+### 1. Clonar o projeto
 
 ```bash
 git clone <URL_DO_SEU_REPOSITORIO>
-cd EduTech
+cd nome-do-projeto
