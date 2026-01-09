@@ -29,5 +29,6 @@ O sistema permite:
 
 ```bash
 git clone <https://github.com/GabrielSouzzzz/EduTech>
-cd nome-do-projeto
+cd ..............
+
 
