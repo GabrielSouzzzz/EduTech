@@ -28,5 +28,6 @@ O sistema permite:
 ### 1. Clonar o projeto
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone <https://github.com/GabrielSouzzzz/EduTech>
 cd nome-do-projeto
+
